@@ -133,7 +133,7 @@ foreach ($banners as $banner) {
     echo '<td>';
     echo '<form method="post">';
     echo '<input type="hidden" name="delete_banner_id" value="' . $banner_id . '" />';
-    echo '<button type="submit" class="delete-banner">Delete</button>';
+    echo '<button type="submit" class="delete-banner deleteButton">Delete</button>';
     echo '</form>';
     echo '</td>';
     echo '</tr>';
