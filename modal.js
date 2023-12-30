@@ -9,6 +9,6 @@ jQuery(document).ready(function($) {
         $('#banner-modal').hide();
     });
 });
-jQuery(document).ready(function($) {
-    $("#custom_banner_tags").select2();
-});
+// jQuery(document).ready(function($) {
+//     $("#custom_banner_tags").select2();
+// });
