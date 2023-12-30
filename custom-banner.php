@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Custom Banner Plugin
  * Description: Display custom banners based on selected tags.
- * Version: 1.0
+ * Version: 1.1
  * Author: Omid Dev
  */
 
